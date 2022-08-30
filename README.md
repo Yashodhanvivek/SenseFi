@@ -1,1 +1,1 @@
-# wifisensor
+# SenseFi
