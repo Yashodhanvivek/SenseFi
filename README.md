@@ -8,7 +8,7 @@ This repository is for IoT product design. The features implemented in the produ
 • SI7021 temperature and humidity sensor on-board\
 • Real Time Clock for timer/thermostat/schedule functionality\
 • User-interface button\
-• User interface indicator led ( Wi-Fi indication)\
+• User interface indicator LED ( Wi-Fi indication)\
 • 10A dry-contact Relay (COM,NO,NC)\
 • Dry-contact and hot contact relay variants\
 • Din rail plastic enclosure\
