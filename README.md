@@ -1,5 +1,5 @@
 # SenseFi
-This repository is for IoT product design. The features implemented in the product are
+This repository is for IoT product design. The features implemented in the product are/
 • Universal on-board AC/DC converter with fuse protection \
 • AC-Input 100V-240V 50/60Hz\
 • Terminal block connectors for external sensors (analog and digital)\
