@@ -12,4 +12,4 @@ This repository is for IoT product design. The features implemented in the produ
 • 10A dry-contact Relay (COM,NO,NC)\
 • Dry-contact and hot contact relay variants\
 • Din rail plastic enclosure\
-• Enclosure dimensions 53.3 x 90.2 x 57.5 mm\
+• Enclosure dimensions 53.3 x 90.2 x 57.5 mm
